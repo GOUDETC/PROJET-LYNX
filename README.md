@@ -3,7 +3,9 @@
 Effets de la prédation naturelle par le Lynx boréal et anthropique par la chasse sur l’utilisation de l’espace par les chevreuils et les chamois et conséquences sur les cascades trophiques.
 
 ## Objectifs
+Comparer les impacts du Lynx et des activités antrhopiques (chasse) sur la dispersion des chevreuils et des chamois, ainsi que les impacts indirects sur les végètaux. 
 
-
-## Organismes
-Stage de Master 2 en collaboration avec l'Office francais de la biodiversité [https://ofb.gouv.fr/les-reserves/le-domaine-de-letang-du-grand-birieux] et l'office de la chasse
+## Organisme
+En collaboration avec :
+1. L'Office francais de la biodiversité [https://ofb.gouv.fr/]
+2. Fédérations départementales des chasseurs (FDC) de l’Ain et du Jura 
